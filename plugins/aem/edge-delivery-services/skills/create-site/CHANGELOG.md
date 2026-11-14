@@ -1,3 +1,10 @@
+# 1.0.0 (2026-11-14)
+
+
+### Features
+
+* **brand-setup:** add brand-setup skill for EDS migrations ([#506](https://github.com/roedyrustam/adobeskills/issues/506)) ([4388dda](https://github.com/roedyrustam/adobeskills/commit/4388dda32a915836a491f34743cd1af1dd28f987))
+
 # [1.2.0](https://github.com/adobe/skills/compare/create-site-v1.1.0...create-site-v1.2.0) (2026-10-29)
 
 
