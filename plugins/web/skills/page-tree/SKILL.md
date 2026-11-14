@@ -8,6 +8,8 @@ description: >-
   web CLI. Returns indented text, a JSON tree, and a map from node IDs to CSS
   selectors. Use before page decomposition, overlay detection, or brand
   extraction, or when the user asks for a page's visual hierarchy or layout.
+metadata:
+  version: "1.0.0"
 ---
 
 # page-tree
