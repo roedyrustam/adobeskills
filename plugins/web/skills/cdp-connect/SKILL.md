@@ -6,6 +6,8 @@ description: >-
   Use when the user asks to attach to, connect to, or control an existing
   Chrome running with --remote-debugging-port.
 license: Apache-2.0
+metadata:
+  version: "1.0.0"
 ---
 
 # CDP Connect (superseded)
