@@ -1,3 +1,17 @@
+# 1.0.0 (2026-11-14)
+
+
+### Bug Fixes
+
+* **aem-eds:** align references/ with spec and silence orphan warnings ([b48cf80](https://github.com/roedyrustam/adobeskills/commit/b48cf802a0974eccfa74fa85898113d66f29f64d))
+* **aem-eds:** fix broken scripts and stale guidance in EDS skills ([#510](https://github.com/roedyrustam/adobeskills/issues/510)) ([8675969](https://github.com/roedyrustam/adobeskills/commit/8675969bff61b915c6868e29bf0f507326cdf893))
+* Update EDS skill intros to follow current best practices ([c728efe](https://github.com/roedyrustam/adobeskills/commit/c728efeba0b35135e7aa93bc114d0bfad7406278))
+
+
+### Features
+
+* **da-auth:** add da-auth skill and surface DA auth in CDD workflow ([#89](https://github.com/roedyrustam/adobeskills/issues/89)) ([fc7a2e8](https://github.com/roedyrustam/adobeskills/commit/fc7a2e8c1dbcb37c65759ba907fe581f8a44e3c8))
+
 ## [2.0.2](https://github.com/adobe/skills/compare/content-driven-development-v2.0.1...content-driven-development-v2.0.2) (2026-10-29)
 
 
