@@ -7,6 +7,8 @@ description: >-
   reverse proxy (mkcert certificate, /etc/hosts entry) with `web mask`, so demos
   and recordings show a clean domain with a padlock. macOS only. Use when the user
   wants to mask, alias, or fake a domain for a demo, recording, or screenshot.
+metadata:
+  version: "1.0.0"
 ---
 
 # domain-mask
