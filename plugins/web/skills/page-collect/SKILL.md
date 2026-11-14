@@ -8,6 +8,8 @@ description: >-
   /icons/), metadata and Open Graph tags, body text, forms, videos, and social
   links. Use when migrating pages to Edge Delivery Services, auditing a site, or
   extracting a page's icons, metadata, or other assets.
+metadata:
+  version: "1.0.0"
 ---
 
 # page-collect
