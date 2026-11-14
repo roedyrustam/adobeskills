@@ -1,3 +1,12 @@
+# 1.0.0 (2026-11-14)
+
+
+### Bug Fixes
+
+* **aem-eds:** align references/ with spec and silence orphan warnings ([b48cf80](https://github.com/roedyrustam/adobeskills/commit/b48cf802a0974eccfa74fa85898113d66f29f64d))
+* **aem-eds:** fix broken scripts and stale guidance in EDS skills ([#510](https://github.com/roedyrustam/adobeskills/issues/510)) ([8675969](https://github.com/roedyrustam/adobeskills/commit/8675969bff61b915c6868e29bf0f507326cdf893))
+* **deps:** update dependency sharp to ^0.35.0 ([a0c8a58](https://github.com/roedyrustam/adobeskills/commit/a0c8a5889018b9bc90393b5bfeb75ac2afa0a5da))
+
 ## [2.0.3](https://github.com/adobe/skills/compare/scrape-webpage-v2.0.2...scrape-webpage-v2.0.3) (2026-10-29)
 
 
