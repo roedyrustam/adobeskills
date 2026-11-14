@@ -9,6 +9,8 @@ description: >-
   Chrome 137+ restriction on loading unpacked extensions and the side panel
   user-gesture requirement. Use when testing, automating, or validating a Chrome
   extension's UI.
+metadata:
+  version: "1.0.0"
 ---
 
 # CDP Extension Pilot
