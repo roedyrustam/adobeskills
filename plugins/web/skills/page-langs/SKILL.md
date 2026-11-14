@@ -8,6 +8,8 @@ description: >-
   the body text (Google CLD3), and reports where the two disagree. Use for i18n
   audits, hreflang validation, multilingual page checks, or when asked what
   language a page is in.
+metadata:
+  version: "1.0.0"
 ---
 
 # page-langs
